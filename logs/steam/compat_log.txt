@@ -1,21 +1,21 @@
 
 
-[2024-09-14 11:48:26] Client version: 1726260406
-[2024-09-14 11:48:26] Requesting mapping AppID 440 from appinfo to tool "SteamLinuxRuntime_sniper"
-[2024-09-14 11:48:26] Recording non-user mapping for 440 at priority 101 to tool SteamLinuxRuntime_sniper
-[2024-09-14 11:48:26] Mapping AppID 440 to tool "SteamLinuxRuntime_sniper" with priority 101
-[2024-09-14 11:48:26] Requesting mapping AppID 570 from appinfo to tool "SteamLinuxRuntime_sniper"
-[2024-09-14 11:48:26] Recording non-user mapping for 570 at priority 85 to tool SteamLinuxRuntime_sniper
-[2024-09-14 11:48:26] Mapping AppID 570 to tool "SteamLinuxRuntime_sniper" with priority 85
-[2024-09-14 11:48:26] Requesting mapping AppID 730 from appinfo to tool "SteamLinuxRuntime_sniper"
-[2024-09-14 11:48:26] Recording non-user mapping for 730 at priority 85 to tool SteamLinuxRuntime_sniper
-[2024-09-14 11:48:26] Mapping AppID 730 to tool "SteamLinuxRuntime_sniper" with priority 85
-[2024-09-14 11:48:26] Requesting mapping AppID 250820 from appinfo to tool "SteamLinuxRuntime_sniper"
-[2024-09-14 11:48:26] Recording non-user mapping for 250820 at priority 85 to tool SteamLinuxRuntime_sniper
-[2024-09-14 11:48:26] Mapping AppID 250820 to tool "SteamLinuxRuntime_sniper" with priority 85
-[2024-09-14 11:48:26] Requesting mapping AppID 371970 from appinfo to tool "SteamLinuxRuntime_sniper"
-[2024-09-14 11:48:26] Recording non-user mapping for 371970 at priority 85 to tool SteamLinuxRuntime_sniper
-[2024-09-14 11:48:26] Mapping AppID 371970 to tool "SteamLinuxRuntime_sniper" with priority 85
-[2024-09-14 11:48:26] Requesting mapping AppID 1118310 from appinfo to tool "SteamLinuxRuntime_sniper"
-[2024-09-14 11:48:26] Recording non-user mapping for 1118310 at priority 85 to tool SteamLinuxRuntime_sniper
-[2024-09-14 11:48:26] Mapping AppID 1118310 to tool "SteamLinuxRuntime_sniper" with priority 85
+[2024-09-14 15:05:28] Client version: 1726260406
+[2024-09-14 15:05:28] Requesting mapping AppID 440 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-09-14 15:05:28] Recording non-user mapping for 440 at priority 101 to tool SteamLinuxRuntime_sniper
+[2024-09-14 15:05:28] Mapping AppID 440 to tool "SteamLinuxRuntime_sniper" with priority 101
+[2024-09-14 15:05:28] Requesting mapping AppID 570 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-09-14 15:05:28] Recording non-user mapping for 570 at priority 85 to tool SteamLinuxRuntime_sniper
+[2024-09-14 15:05:28] Mapping AppID 570 to tool "SteamLinuxRuntime_sniper" with priority 85
+[2024-09-14 15:05:28] Requesting mapping AppID 730 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-09-14 15:05:28] Recording non-user mapping for 730 at priority 85 to tool SteamLinuxRuntime_sniper
+[2024-09-14 15:05:28] Mapping AppID 730 to tool "SteamLinuxRuntime_sniper" with priority 85
+[2024-09-14 15:05:28] Requesting mapping AppID 250820 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-09-14 15:05:28] Recording non-user mapping for 250820 at priority 85 to tool SteamLinuxRuntime_sniper
+[2024-09-14 15:05:28] Mapping AppID 250820 to tool "SteamLinuxRuntime_sniper" with priority 85
+[2024-09-14 15:05:28] Requesting mapping AppID 371970 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-09-14 15:05:28] Recording non-user mapping for 371970 at priority 85 to tool SteamLinuxRuntime_sniper
+[2024-09-14 15:05:28] Mapping AppID 371970 to tool "SteamLinuxRuntime_sniper" with priority 85
+[2024-09-14 15:05:28] Requesting mapping AppID 1118310 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-09-14 15:05:28] Recording non-user mapping for 1118310 at priority 85 to tool SteamLinuxRuntime_sniper
+[2024-09-14 15:05:28] Mapping AppID 1118310 to tool "SteamLinuxRuntime_sniper" with priority 85

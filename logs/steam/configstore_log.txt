@@ -1,18 +1,17 @@
 
 
-[2024-09-19 06:39:15] Client version: 1726605427
-[2024-09-19 06:39:15] Failed to read store 'install' from '/home/steam/.steam/steam/config/config.vdf.tmp'
-[2024-09-19 06:39:15] Failed to read store 'install' from '/home/steam/.steam/steam/config/config.vdf.tmp'
-[2024-09-19 06:39:15] Failed to read store 'install' from '/home/steam/.steam/steam/config/config.vdf.tmp'
-[2024-09-19 06:39:15] Failed to read store 'install' from '/home/steam/.steam/steam/config/config.vdf.tmp'
-[2024-09-19 06:39:16] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
-[2024-09-19 06:39:18] Failed to read store 'userlocal' from '/home/steam/.steam/steam/userdata/anonymous/config/localconfig.vdf.tmp'
-[2024-09-19 06:39:18] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
-[2024-09-19 06:39:20] Flushed store 'userlocal' to '/home/steam/.steam/steam/userdata/anonymous/config/localconfig.vdf'
-[2024-09-19 06:39:24] Flushed store 'userlocal' to '/home/steam/.steam/steam/userdata/anonymous/config/localconfig.vdf'
-[2024-09-19 06:39:24] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
-[2024-09-19 06:39:25] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
-[2024-09-19 06:39:55] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
-[2024-09-19 06:40:25] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
-[2024-09-19 06:40:55] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
-[2024-09-19 06:41:25] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
+[2024-09-20 12:49:34] Client version: 1726605427
+[2024-09-20 12:49:34] Failed to read store 'install' from '/home/steam/.steam/steam/config/config.vdf.tmp'
+[2024-09-20 12:49:34] Failed to read store 'install' from '/home/steam/.steam/steam/config/config.vdf.tmp'
+[2024-09-20 12:49:34] Failed to read store 'install' from '/home/steam/.steam/steam/config/config.vdf.tmp'
+[2024-09-20 12:49:34] Failed to read store 'install' from '/home/steam/.steam/steam/config/config.vdf.tmp'
+[2024-09-20 12:49:34] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
+[2024-09-20 12:49:35] Loaded store 'install' from '/home/steam/.steam/steam/config/config.vdf' successfully
+[2024-09-20 12:49:37] Failed to read store 'userlocal' from '/home/steam/.steam/steam/userdata/anonymous/config/localconfig.vdf.tmp'
+[2024-09-20 12:49:37] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
+[2024-09-20 12:49:39] Flushed store 'userlocal' to '/home/steam/.steam/steam/userdata/anonymous/config/localconfig.vdf'
+[2024-09-20 12:49:42] Flushed store 'userlocal' to '/home/steam/.steam/steam/userdata/anonymous/config/localconfig.vdf'
+[2024-09-20 12:49:42] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
+[2024-09-20 12:50:13] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
+[2024-09-20 12:50:43] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'
+[2024-09-20 12:51:13] Flushed store 'install' to '/home/steam/.steam/steam/config/config.vdf'

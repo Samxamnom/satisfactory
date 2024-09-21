@@ -1,2 +1,2 @@
-09/21 09:28:57 minidumps folder is set to /tmp/dumps
-09/21 09:28:57 Init: Installing breakpad exception handler for appid(steam)/version(1726605427)/tid(69)
+09/21 10:39:36 minidumps folder is set to /tmp/dumps
+09/21 10:39:36 Init: Installing breakpad exception handler for appid(steam)/version(1726605427)/tid(70)

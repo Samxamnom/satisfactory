@@ -1,20 +1,20 @@
 
 
-[2024-09-24 05:17:37] Client version: 1726605427
-[2024-09-24 05:17:37] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
-[2024-09-24 05:17:40] RequestAppInfoUpdate: AppIDs 7
-[2024-09-24 05:17:40] Change number 0->25362442, apps: 0/0, packages: 0/0
-[2024-09-24 05:17:40] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
-[2024-09-24 05:17:41] Downloaded 1 apps via HTTP, 14 KB (3 KB compressed)
-[2024-09-24 05:17:41] Requesting 0 apps, 1 packages (full data, 1024 prev attempts, expected 30 KB)
-[2024-09-24 05:17:41] UpdatesJob: finished OK, apps updated 1 (14 KB), packages updated 1 (30 KB)
-[2024-09-24 05:17:41] Requesting 1227 apps, 0 packages (meta data, 1024 prev attempts, expected 57 KB)
-[2024-09-24 05:17:42] Requested 130 app access tokens, 54 received, 76 denied
-[2024-09-24 05:17:42] Updated SHAs with 54 new access tokens
-[2024-09-24 05:17:42] Downloaded 232 apps via HTTP, 6662 KB (1722 KB compressed)
-[2024-09-24 05:17:42] Requesting 995 apps, 0 packages (full data, 1024 prev attempts, expected 3346 KB)
-[2024-09-24 05:17:43] UpdatesJob: finished OK, apps updated 1227 (9962 KB), packages updated 0 (0 KB)
-[2024-09-24 05:17:43] RequestAppInfoUpdate: AppIDs 1690800
-[2024-09-24 05:17:43] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
-[2024-09-24 05:17:44] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
-[2024-09-24 05:17:58] App cache write succeeded /home/steam/.steam/steam/appcache/appinfo.vdf (1228 apps, 3848 KB) in 85 ms
+[2024-09-24 09:49:13] Client version: 1726605427
+[2024-09-24 09:49:13] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+[2024-09-24 09:49:16] RequestAppInfoUpdate: AppIDs 7
+[2024-09-24 09:49:16] Change number 0->25365943, apps: 0/0, packages: 0/0
+[2024-09-24 09:49:16] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-09-24 09:49:17] Downloaded 1 apps via HTTP, 14 KB (3 KB compressed)
+[2024-09-24 09:49:17] Requesting 0 apps, 1 packages (full data, 1024 prev attempts, expected 30 KB)
+[2024-09-24 09:49:17] UpdatesJob: finished OK, apps updated 1 (14 KB), packages updated 1 (30 KB)
+[2024-09-24 09:49:17] Requesting 1227 apps, 0 packages (meta data, 1024 prev attempts, expected 57 KB)
+[2024-09-24 09:49:18] Requested 130 app access tokens, 54 received, 76 denied
+[2024-09-24 09:49:18] Updated SHAs with 54 new access tokens
+[2024-09-24 09:49:19] Downloaded 232 apps via HTTP, 6662 KB (1723 KB compressed)
+[2024-09-24 09:49:19] Requesting 995 apps, 0 packages (full data, 1024 prev attempts, expected 3346 KB)
+[2024-09-24 09:49:20] UpdatesJob: finished OK, apps updated 1227 (9962 KB), packages updated 0 (0 KB)
+[2024-09-24 09:49:20] RequestAppInfoUpdate: AppIDs 1690800
+[2024-09-24 09:49:20] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-09-24 09:49:21] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-09-24 09:49:36] App cache write succeeded /home/steam/.steam/steam/appcache/appinfo.vdf (1228 apps, 3848 KB) in 1290 ms

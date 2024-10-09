@@ -1,57 +1,54 @@
 
 
-[2024-10-08 14:12:28] Client version: 1726605427
-[2024-10-08 14:12:28] Loaded 0 apps from install folder "/config/gamefiles/steamapps\appmanifest_*.acf".
-[2024-10-08 14:12:28] Triggered async write of Steam library folders configuration (1 libraries).
-[2024-10-08 14:12:32] AppID 1690800 state changed : Update Required,
-[2024-10-08 14:12:32] AppID 1690800 user config changed : added depots 1006,1690802
-[2024-10-08 14:12:32] AppID 1690800 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
-[2024-10-08 14:12:32] AppID 1690800 state changed : Update Required,Update Queued,
-[2024-10-08 14:12:32] AppID 1690800 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
-[2024-10-08 14:12:32] AppID 1690800 config changed : added depots 1006,1690802
-[2024-10-08 14:12:32] AppID 1690800 state changed : Update Required,Update Queued,Update Running,
-[2024-10-08 14:12:32] AppID 1690800 update changed : Running Update,
-[2024-10-08 14:12:32] AppID 1690800 update changed : Running Update,Reconfiguring,
-[2024-10-08 14:12:32] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 5 / Launcher 3)
-[2024-10-08 14:12:32] Moving to source priority class '3'
-[2024-10-08 14:12:32] Created download interface of type 'SteamCache' (7) to host cache13-fra2.steamcontent.com (cache13-fra2.steamcontent.com)
-[2024-10-08 14:12:32] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
-[2024-10-08 14:12:32] Created download interface of type 'SteamCache' (7) to host cache1-fra1.steamcontent.com (cache1-fra1.steamcontent.com)
-[2024-10-08 14:12:32] HTTP/2 available
-[2024-10-08 14:12:32] Created ipv4-only http client
-[2024-10-08 14:12:33] HTTPS (SteamCache,238) - cache13-fra2.steamcontent.com (155.133.226.5:443 / 155.133.226.5:443, host: cache13-fra2.steamcontent.com): cache13-fra2.steamcontent.com/depot/1006/manifest/7138471031118904166/5/6398769026075337781 - received 200 (OK) HTTP response
-[2024-10-08 14:12:33] HTTPS (SteamCache,238) - cache13-fra2.steamcontent.com (155.133.226.5:443 / 155.133.226.5:443, host: cache13-fra2.steamcontent.com): cache13-fra2.steamcontent.com/depot/1690802/manifest/4296687721427311235/5/7270760880419586736 - received 200 (OK) HTTP response
-[2024-10-08 14:12:33] AppID 1690800 update changed : Running Update,
-[2024-10-08 14:12:33] AppID 1690800 update changed : Running Update,Validating,
-[2024-10-08 14:12:33] AppID 1690800 update changed : Running Update,
-[2024-10-08 14:12:33] AppID 1690800 update changed : Running Update,Preallocating,
-[2024-10-08 14:12:33] AppID 1690800 preallocated 0 files (0 MB) 
-[2024-10-08 14:12:33] AppID 1690800 update changed : Running Update,
-[2024-10-08 14:12:33] AppID 1690800 update started : download 0/1210090288, store 0/0, reuse 0/0, delta 0/0, stage 0/4304372877 
-[2024-10-08 14:12:33] AppID 1690800 state changed : Update Required,Update Queued,Update Running,Update Started,
-[2024-10-08 14:12:33] AppID 1690800 update changed : Running Update,Downloading,Staging,
-[2024-10-08 14:12:33] Downloading 76 chunks from depot 1006
-[2024-10-08 14:12:35] Downloading 4797 chunks from depot 1690802
-[2024-10-08 14:12:45] Increasing target number of download connections to 4 (rate was 0.000, now 270.972)
-[2024-10-08 14:12:45] Created download interface of type 'SteamCache' (7) to host cache15-fra2.steamcontent.com (cache15-fra2.steamcontent.com)
-[2024-10-08 14:12:59] Increasing target number of download connections to 5 (rate was 270.972, now 333.117)
-[2024-10-08 14:12:59] Created download interface of type 'SteamCache' (7) to host cache13-fra1.steamcontent.com (cache13-fra1.steamcontent.com)
-[2024-10-08 14:13:06] AppID 1690800 update changed : Running Update,
-[2024-10-08 14:13:06] AppID 1690800 update changed : Running Update,Verifying,
-[2024-10-08 14:13:26] Verified 4104 MB in '/home/steam/.steam/steam', clean bytes tally is now 4104 MB
-[2024-10-08 14:13:26] Triggered async write of Steam library folders configuration (1 libraries).
-[2024-10-08 14:13:26] AppID 1690800 update changed : Running Update,
-[2024-10-08 14:13:26] AppID 1690800 update changed : Running Update,Committing,
-[2024-10-08 14:13:26] AppID 1690800 starting commit from "/config/gamefiles/steamapps/downloading/1690800" to "/config/gamefiles" : 1366 updated, 0 moved, 0 deleted files
-[2024-10-08 14:13:27] AppID 1690800 state changed : Fully Installed,Update Queued,Update Running,
-[2024-10-08 14:13:27] AppID 1690800 finished update, 2 mounted depots (BuildID 15811013) : 1006 (7138471031118904166),1690802 (4296687721427311235),
-[2024-10-08 14:13:27] AppID 1690800 update changed : Running Update,
-[2024-10-08 14:13:27] AppID 1690800 update changed : None
-[2024-10-08 14:13:27] AppID 1690800 state changed : Fully Installed,Update Queued,
-[2024-10-08 14:13:27] AppID 1690800 state changed : Fully Installed,
-[2024-10-08 14:13:27] AppID 1690800 scheduler finished : removed from schedule (result No Error, state 0xc) 
-[2024-10-08 14:13:27] HTTPS (SteamCache,156) - cache13-fra1.steamcontent.com (162.254.197.8:443 / 162.254.197.8:443, host: cache13-fra1.steamcontent.com): Closing connection
-[2024-10-08 14:13:27] HTTPS (SteamCache,240) - cache15-fra2.steamcontent.com (155.133.226.38:443 / 155.133.226.38:443, host: cache15-fra2.steamcontent.com): Closing connection
-[2024-10-08 14:13:27] HTTPS (SteamCache,241) - cache1-fra1.steamcontent.com (162.254.197.6:443 / 162.254.197.6:443, host: cache1-fra1.steamcontent.com): Closing connection
-[2024-10-08 14:13:27] HTTPS (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.23:443 / 155.133.226.23:443, host: cache2-fra2.steamcontent.com): Closing connection
-[2024-10-08 14:13:27] HTTPS (SteamCache,238) - cache13-fra2.steamcontent.com (155.133.226.5:443 / 155.133.226.5:443, host: cache13-fra2.steamcontent.com): Closing connection
+[2024-10-09 06:10:08] Client version: 1726605427
+[2024-10-09 06:10:08] Loaded 0 apps from install folder "/config/gamefiles/steamapps\appmanifest_*.acf".
+[2024-10-09 06:10:08] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-10-09 06:10:12] AppID 1690800 state changed : Update Required,
+[2024-10-09 06:10:12] AppID 1690800 user config changed : added depots 1006,1690802
+[2024-10-09 06:10:12] AppID 1690800 scheduler update : Priority First, not played for 2 seconds, update disabled for 0 seconds
+[2024-10-09 06:10:12] AppID 1690800 state changed : Update Required,Update Queued,
+[2024-10-09 06:10:12] AppID 1690800 scheduler update : Priority First, not played for 2 seconds, update disabled for 0 seconds
+[2024-10-09 06:10:12] AppID 1690800 config changed : added depots 1006,1690802
+[2024-10-09 06:10:12] AppID 1690800 state changed : Update Required,Update Queued,Update Running,
+[2024-10-09 06:10:12] AppID 1690800 update changed : Running Update,
+[2024-10-09 06:10:12] AppID 1690800 update changed : Running Update,Reconfiguring,
+[2024-10-09 06:10:12] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 5 / Launcher 3)
+[2024-10-09 06:10:12] Moving to source priority class '3'
+[2024-10-09 06:10:12] Created download interface of type 'SteamCache' (7) to host cache7-fra2.steamcontent.com (cache7-fra2.steamcontent.com)
+[2024-10-09 06:10:12] Created download interface of type 'SteamCache' (7) to host cache6-fra1.steamcontent.com (cache6-fra1.steamcontent.com)
+[2024-10-09 06:10:12] Created download interface of type 'SteamCache' (7) to host cache10-fra1.steamcontent.com (cache10-fra1.steamcontent.com)
+[2024-10-09 06:10:13] HTTP/2 available
+[2024-10-09 06:10:13] Created ipv4-only http client
+[2024-10-09 06:10:13] HTTPS (SteamCache,247) - cache7-fra2.steamcontent.com (155.133.226.40:443 / 155.133.226.40:443, host: cache7-fra2.steamcontent.com): cache7-fra2.steamcontent.com/depot/1006/manifest/7138471031118904166/5/4625951549421520693 - received 200 (OK) HTTP response
+[2024-10-09 06:10:13] HTTPS (SteamCache,246) - cache6-fra1.steamcontent.com (162.254.197.27:443 / 162.254.197.27:443, host: cache6-fra1.steamcontent.com): cache6-fra1.steamcontent.com/depot/1690802/manifest/4296687721427311235/5/3327265232116034205 - received 200 (OK) HTTP response
+[2024-10-09 06:10:13] AppID 1690800 update changed : Running Update,
+[2024-10-09 06:10:13] AppID 1690800 update changed : Running Update,Validating,
+[2024-10-09 06:10:13] AppID 1690800 update changed : Running Update,
+[2024-10-09 06:10:13] AppID 1690800 update changed : Running Update,Preallocating,
+[2024-10-09 06:10:14] AppID 1690800 preallocated 0 files (0 MB) 
+[2024-10-09 06:10:14] AppID 1690800 update changed : Running Update,
+[2024-10-09 06:10:14] AppID 1690800 update started : download 0/1210090288, store 0/0, reuse 0/0, delta 0/0, stage 0/4304372877 
+[2024-10-09 06:10:14] AppID 1690800 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-10-09 06:10:14] AppID 1690800 update changed : Running Update,Downloading,Staging,
+[2024-10-09 06:10:14] Downloading 76 chunks from depot 1006
+[2024-10-09 06:10:15] Downloading 4797 chunks from depot 1690802
+[2024-10-09 06:10:25] Increasing target number of download connections to 4 (rate was 0.000, now 303.050)
+[2024-10-09 06:10:25] Created download interface of type 'SteamCache' (7) to host cache1-fra1.steamcontent.com (cache1-fra1.steamcontent.com)
+[2024-10-09 06:10:45] AppID 1690800 update changed : Running Update,
+[2024-10-09 06:10:45] AppID 1690800 update changed : Running Update,Verifying,
+[2024-10-09 06:11:05] Verified 4104 MB in '/home/steam/.steam/steam', clean bytes tally is now 4104 MB
+[2024-10-09 06:11:05] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-10-09 06:11:05] AppID 1690800 update changed : Running Update,
+[2024-10-09 06:11:05] AppID 1690800 update changed : Running Update,Committing,
+[2024-10-09 06:11:05] AppID 1690800 starting commit from "/config/gamefiles/steamapps/downloading/1690800" to "/config/gamefiles" : 1366 updated, 0 moved, 0 deleted files
+[2024-10-09 06:11:05] AppID 1690800 state changed : Fully Installed,Update Queued,Update Running,
+[2024-10-09 06:11:05] AppID 1690800 finished update, 2 mounted depots (BuildID 15811013) : 1006 (7138471031118904166),1690802 (4296687721427311235),
+[2024-10-09 06:11:05] AppID 1690800 update changed : Running Update,
+[2024-10-09 06:11:05] AppID 1690800 update changed : None
+[2024-10-09 06:11:05] AppID 1690800 state changed : Fully Installed,Update Queued,
+[2024-10-09 06:11:05] AppID 1690800 state changed : Fully Installed,
+[2024-10-09 06:11:05] AppID 1690800 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-10-09 06:11:05] HTTPS (SteamCache,241) - cache1-fra1.steamcontent.com (162.254.197.6:443 / 162.254.197.6:443, host: cache1-fra1.steamcontent.com): Closing connection
+[2024-10-09 06:11:05] HTTPS (SteamCache,83) - cache10-fra1.steamcontent.com (162.254.197.20:443 / 162.254.197.20:443, host: cache10-fra1.steamcontent.com): Closing connection
+[2024-10-09 06:11:05] HTTPS (SteamCache,246) - cache6-fra1.steamcontent.com (162.254.197.27:443 / 162.254.197.27:443, host: cache6-fra1.steamcontent.com): Closing connection
+[2024-10-09 06:11:05] HTTPS (SteamCache,247) - cache7-fra2.steamcontent.com (155.133.226.40:443 / 155.133.226.40:443, host: cache7-fra2.steamcontent.com): Closing connection

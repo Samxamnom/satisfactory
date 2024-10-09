@@ -1,59 +1,44 @@
 
 
-[2024-10-09 06:10:05] Client version: 1726605427
-[2024-10-09 06:10:05] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
-[2024-10-09 06:10:05] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
-[2024-10-09 06:10:05] Connectivity test (2.16.241.15:80 (2.16.241.15:80)): OK!
-[2024-10-09 06:10:05] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
-[2024-10-09 06:10:05] Clearing in-memory token - 1 (OK): SetLoginInformation
-[2024-10-09 06:10:05] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
-[2024-10-09 06:10:05] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
-[2024-10-09 06:10:05] [Logged Off, 4, 0] [a:1:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 1
-[2024-10-09 06:10:05] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
-[2024-10-09 06:10:06] GetCMListForConnect -- got 15 Netfilter CMs and 345 WebSocket CMs
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'lax1' count: 31
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'dfw1' count: 31
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'sea1' count: 30
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'ord1' count: 31
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'iad1' count: 34
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'atl3' count: 30
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'lhr1' count: 33
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'par1' count: 30
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'ams1' count: 30
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'fra2' count: 32
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'fra1' count: 33
-[2024-10-09 06:10:06] GetCMListForConnect -- DC 'sto2' count: 15
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-lax1.steamserver.net:27018) starting...
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:27018) starting...
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:443) starting...
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-dfw1.steamserver.net:27018) starting...
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-dfw1.steamserver.net:27018) results: 130.8022ms + load 13.0000
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-dfw1.steamserver.net:443) starting...
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:27018) results: 193.6140ms + load 9.0000
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-lax1.steamserver.net:27018) results: 229.7227ms + load 8.0000
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:443) results: 211.6891ms + load 8.0000
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:27018) starting...
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:443) starting...
-[2024-10-09 06:10:06] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-dfw1.steamserver.net:27018) starting...
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-dfw1.steamserver.net:443) results: 137.0283ms + load 13.0000
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sea1.steamserver.net:27018) starting...
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-dfw1.steamserver.net:27018) results: 130.3350ms + load 13.0000
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:27018) starting...
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:27018) results: 184.3129ms + load 2.0000
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-atl3.steamserver.net:27029) starting...
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sea1.steamserver.net:443) results: 193.4782ms + load 1.0000
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:443) starting...
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:27018) results: 130.5257ms + load 15.0000
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sea1.steamserver.net:27018) results: 175.7635ms + load 2.0000
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-iad1.steamserver.net:443) results: 131.5638ms + load 18.0000
-[2024-10-09 06:10:07] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-atl3.steamserver.net:27029) results: 121.7190ms + load 17.0000
-[2024-10-09 06:10:07] [Connecting, 4, 3] [a:1:0] Connect() starting connection (eNetQOSLevelHigh, ext2-atl3.steamserver.net:27029, WebSocket)
-[2024-10-09 06:10:07] [Connecting, 4, 3] [a:1:0] ConnectionCompleted() (162.254.199.181:27029, WebSocket) local address (172.17.0.2:38151)
-[2024-10-09 06:10:07] [Connecting, 4, 3] [a:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
-[2024-10-09 06:10:07] [Connected, 4, 3] [a:1:0] Logging on [a:1:0]
-[2024-10-09 06:10:08] [Logging On, 4, 3] [a:1:0] RecvMsgClientLogOnResponse() : [a:1:1304209678] 'OK'
-[2024-10-09 06:10:08] [Logged On, 4, 3] [a:1:1304209678] RecvMsgClientLogOnResponse() : processing complete
-[2024-10-09 06:11:05] [Logged On, 4, 3] [a:1:1304209678] ResetVoiceRecording() (was recording: 0) (last get voice time: 1728454265 seconds ago)
-[2024-10-09 06:11:05] [Logged On, 4, 3] [a:1:1304209678] LogOff()
-[2024-10-09 06:11:05] [Logging Off, 4, 3] [a:1:1304209678] AsyncDisconnect( bDontWaitOnTCPShutdown: true )
-[2024-10-09 06:11:05] [Logging Off, 0, 3] [a:1:1304209678] Log session ended
+[2024-10-09 13:01:53] Client version: 1726605427
+[2024-10-09 13:01:53] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2024-10-09 13:01:53] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2024-10-09 13:01:53] Connectivity test (2.19.198.123:80 (2.19.198.123:80)): OK!
+[2024-10-09 13:01:53] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2024-10-09 13:01:53] Clearing in-memory token - 1 (OK): SetLoginInformation
+[2024-10-09 13:01:53] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2024-10-09 13:01:53] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2024-10-09 13:01:53] [Logged Off, 4, 0] [a:1:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 1
+[2024-10-09 13:01:53] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2024-10-09 13:01:53] GetCMListForConnect -- got 21 Netfilter CMs and 339 WebSocket CMs
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'fra2' count: 31
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'fra1' count: 33
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'sto2' count: 32
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'ams1' count: 31
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'sto1' count: 31
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'vie1' count: 30
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'par1' count: 32
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'mad1' count: 34
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'waw1' count: 30
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'lhr1' count: 33
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'iad1' count: 32
+[2024-10-09 13:01:53] GetCMListForConnect -- DC 'ord1' count: 11
+[2024-10-09 13:01:53] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext4-fra2.steamserver.net:27037) starting...
+[2024-10-09 13:01:53] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext3-fra2.steamserver.net:27021) starting...
+[2024-10-09 13:01:53] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext3-fra2.steamserver.net:443) starting...
+[2024-10-09 13:01:53] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext3-fra1.steamserver.net:27024) starting...
+[2024-10-09 13:01:54] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext4-fra2.steamserver.net:27037) results: 29.2979ms + load 39.0000
+[2024-10-09 13:01:54] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() stopping early for good host (ext4-fra2.steamserver.net:27037)
+[2024-10-09 13:01:54] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext3-fra2.steamserver.net:27021) results: 19.8373ms + load 41.0000
+[2024-10-09 13:01:54] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext3-fra1.steamserver.net:27024) results: 19.0665ms + load 38.0000
+[2024-10-09 13:01:54] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext3-fra2.steamserver.net:443) results: 78.6731ms + load 46.0000
+[2024-10-09 13:01:54] [Connecting, 4, 3] [a:1:0] Connect() starting connection (eNetQOSLevelHigh, ext3-fra1.steamserver.net:27024, WebSocket)
+[2024-10-09 13:01:54] [Connecting, 4, 3] [a:1:0] ConnectionCompleted() (162.254.197.38:27024, WebSocket) local address (172.17.0.2:55449)
+[2024-10-09 13:01:54] [Connecting, 4, 3] [a:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2024-10-09 13:01:54] [Connected, 4, 3] [a:1:0] Logging on [a:1:0]
+[2024-10-09 13:01:54] [Logging On, 4, 3] [a:1:0] RecvMsgClientLogOnResponse() : [a:1:2683830345] 'OK'
+[2024-10-09 13:01:54] [Logged On, 4, 3] [a:1:2683830345] RecvMsgClientLogOnResponse() : processing complete
+[2024-10-09 13:02:51] [Logged On, 4, 3] [a:1:2683830345] ResetVoiceRecording() (was recording: 0) (last get voice time: 1728478971 seconds ago)
+[2024-10-09 13:02:51] [Logged On, 4, 3] [a:1:2683830345] LogOff()
+[2024-10-09 13:02:51] [Logging Off, 4, 3] [a:1:2683830345] AsyncDisconnect( bDontWaitOnTCPShutdown: true )
+[2024-10-09 13:02:51] [Logging Off, 0, 3] [a:1:2683830345] Log session ended

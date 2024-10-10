@@ -1,3 +1,3 @@
-10/09 13:35:07 minidumps folder is set to /tmp/dumps
-10/09 13:35:07 Init: Installing breakpad exception handler for appid(steam)/version(1726605427)/tid(70)
+10/10 05:43:54 minidumps folder is set to /tmp/dumps
+10/10 05:43:54 Init: Installing breakpad exception handler for appid(steam)/version(1728511679)/tid(70)
 Shutting down: stopping app stats write job

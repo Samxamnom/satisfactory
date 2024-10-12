@@ -1,6 +1,6 @@
 
 
-[2024-10-12 07:09:14] Client version: 1728594755
-[2024-10-12 07:09:14] UpdateCurrentGame: setting current gameid: 769
-[2024-10-12 07:09:14] MaybeUpdateActiveGame: loading profile for gameid: 769
-[2024-10-12 07:09:14] Initialized system perf manager
+[2024-10-12 14:42:34] Client version: 1728594755
+[2024-10-12 14:42:34] UpdateCurrentGame: setting current gameid: 769
+[2024-10-12 14:42:34] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2024-10-12 14:42:34] Initialized system perf manager
